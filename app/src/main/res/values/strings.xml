@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CryptoCurrrency</string>
+    <string name="search">Search</string>
+    <string name="currencyName">Name</string>
+    <string name="currencyPrice">Price</string>
+    <string name="currencyChange">Change</string>
+    <string name="prices">Prices</string>
+    <string name="favourites">Favourites</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="news">News</string>
+    <string name="invest">Invest</string>
+    <string name="sno">sno</string>
+    <string name="percentage">%</string>
+    <string name="dollar">$</string>
+
+</resources>
